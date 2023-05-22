@@ -16,7 +16,7 @@ named_value_format: Greek_Number_Format {
 }
 
 explore: data_intelligence_ar {
-  sql_always_where: ${Client_ID} = "@{CLIENT}" ;;
+
 }
 
 explore: sales_orders {
